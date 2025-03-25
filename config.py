@@ -2,32 +2,6 @@ import numpy as np
 import math
 
 
-"""
-Model 1
-ratio = [0.6, 0.4]
-SNR = 10
-random_seed = 76
-SNR = 20
-random_seed = 76
-SNR = 40
-random_seed = 63
-SNR = 80
-random_seed = 50
-"""
-
-"""Model 2
-ratio = [0.4, 0.6]
-SNR = 10
-random_seed = 13
-SNR = 20
-random_seed = 60
-SNR = 40
-random_seed = 40
-SNR = 80
-random_seed = 50
-"""
-
-
 # Number of T2 points
 T2_number = 128
 # Number of echoes
