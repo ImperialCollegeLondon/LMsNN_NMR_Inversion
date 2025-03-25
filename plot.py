@@ -124,15 +124,3 @@ def plot_inverse_data_fig(echo_num, echo_space, echo, echo_noise, denoising_echo
     plt.show()
 
     return t2_result
-
-
-
-
-
-
-
-
-
-
-
-
